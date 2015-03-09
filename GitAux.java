@@ -11,11 +11,11 @@ package prgitejemplo;
 public class GitAux {
     
     public void metodoAlumno1(){
-        System.out.println("metodo 1");
+        System.out.println("metodo 10");
     }
     
-    public void metodoAlumno2(){
-        System.out.println("metodo 2");
+    public void metodoAlumno6(){
+        System.out.println("metodo 6");
     }
     
     public void metodoComunitario(){
